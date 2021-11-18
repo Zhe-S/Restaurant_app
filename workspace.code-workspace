@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../BMI-app-Javascript"
+		},
+		{
+			"path": "../final-project"
+		},
+		{
+			"path": "../movie-list-demo(Robert 2+3)"
+		},
+		{
+			"path": "../my-app"
+		},
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projekt_wunderbar"
+	}
+}
